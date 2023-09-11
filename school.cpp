@@ -174,7 +174,7 @@ int main(){
             continue;
 
             case '2':
-            {ifstream t2("student.txt");
+            {ifstream t2("teacher.txt");
             cout<<"Enter teacer's first name: ";
             cin>>find;
             cout<<endl;
